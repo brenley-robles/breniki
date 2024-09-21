@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774933330420",
+    "project_id": "breniki-4aca2",
+    "storage_bucket": "breniki-4aca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774933330420:android:075f588b112d185c87a1a1",
+        "android_client_info": {
+          "package_name": "com.example.breniki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3k8PcEAFtvgeI6rmqViO1elKWKJKbpfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
